@@ -6,7 +6,7 @@ from llm import get_ai_response
 st.set_page_config(page_title="보안 챗봇", page_icon="🤖")
 
 st.title("🤖 보안 챗봇")
-st.caption("롯데이노베이트 보안에 관련된 모든 것을 답해드립니다")
+st.caption("보안에 관련된 모든 것을 답해드립니다")
 
 load_dotenv()
 
